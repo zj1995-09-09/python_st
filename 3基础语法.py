@@ -1,6 +1,6 @@
 # encoding: utf-8
 # @author: MrZhou
-# @file: 基础语法.py
+# @file: 3基础语法.py
 # @time: 2023/2/13 19:15
 # @desc:
 # 控制台作用:相当于在当前目录 (当前所打开的文件所在的目录) 下打开python解释器，

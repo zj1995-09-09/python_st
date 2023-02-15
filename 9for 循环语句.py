@@ -1,6 +1,6 @@
 # encoding: utf-8
 # @author: MrZhou
-# @file: for 循环语句.py
+# @file: for 7循环语句.py
 # @time: 2023/2/15 10:40
 # @desc:
 # for循环可以遍历任何序列的项目，如一个列表或者一个字符串

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # @author: MrZhou
-# @file: 变量类型.py
+# @file: 4变量类型.py
 # @time: 2023/2/13 20:21
 # @desc:
 变量是存储在内存中的值，这就意味着在创建变量时会在内存中开辟一个空间

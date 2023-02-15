@@ -1,6 +1,6 @@
 # encoding: utf-8
 # @author: MrZhou
-# @file: 环境搭建.py
+# @file: 1环境搭建.py
 # @time: 2023/2/13 19:09
 # @desc:
 # 1、配置系统变量Path

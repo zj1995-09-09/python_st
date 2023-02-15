@@ -1,6 +1,6 @@
 # encoding: utf-8
 # @author: MrZhou
-# @file: 循环嵌套.py
+# @file: 10循环嵌套.py
 # @time: 2023/2/15 16:24
 # @desc:
 # python语言允许在一个循环体里面嵌入另一个循环

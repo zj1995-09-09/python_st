@@ -1,6 +1,6 @@
 # encoding: utf-8
 # @author: MrZhou
-# @file: 中文编码.py
+# @file: 2中文编码.py
 # @time: 2023/2/13 19:10
 # @desc:
 或者#!usr/bin/python
