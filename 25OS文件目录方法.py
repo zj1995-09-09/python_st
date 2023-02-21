@@ -18,3 +18,4 @@ os.close(fd=)
 关闭文件描述符fd
 
 os.path模块
+获取文件的属性信息
